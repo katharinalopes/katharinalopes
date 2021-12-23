@@ -1,10 +1,10 @@
-Olá, eu sou a Katharina Lopes 👋
+### `Olá, eu sou a Katharina Lopes 👋` 
 
 <div>
   <a href="http://instagram.com/katharinalopes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=katharinalopes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=katharinalopes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false"></a>
   <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katharinalopes&layout=compact&langs_count=16&theme=tokyonight">
-  </div>   
+</div>  
 
 <div style=display: inline_block"><br>
   <img align="center" alt="Katha-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original.svg"> 
@@ -20,7 +20,11 @@ Olá, eu sou a Katharina Lopes 👋
   <a href="https://www.linkedin.com/in/maria-katharina-lopes-6503b639/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://www.youtube.com/katharinalopes" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://discord.gg/UepFYTJu" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>                                                                                                                                          
-</div>
+</div><br>
+
+`Palmas-TO`  
+
+
 
  
   
