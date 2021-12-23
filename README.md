@@ -1,7 +1,5 @@
 Olá, eu sou a Katharina Lopes 👋
 
-- 🌱 I’m currently learning html, css and javascript.
-
 <div>
   <a href="http://instagram.com/katharinalopes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=katharinalopes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false">
@@ -23,16 +21,6 @@ Olá, eu sou a Katharina Lopes 👋
 <a href="https://www.youtube.com/katharinalopes" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://discord.gg/UepFYTJu" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>                                                                                                                                          
 </div>
-<!-- Meme randomico
-<div>
-<img src="https://random-memer.herokuapp.com/" title="Meme" alt="Please refresh the page if the meme doesn't show up.">
-</div>
-Frase aleatoria
-<div>
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)" title="Meme">
-</div>
--->
-
 
  
   
