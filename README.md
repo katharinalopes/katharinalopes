@@ -4,8 +4,11 @@ Olá, eu sou a Katharina Lopes 👋
 
 <div>
   <a href="http://instagram.com/katharinalopes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=katharinalopes&show_icons=true&theme=jolly&include_all_commits=true&count_private=false">
-  <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katharinalopes&layout=compact&langs_count=16&theme=jolly">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=katharinalopes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false">
+  <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katharinalopes&layout=compact&langs_count=16&theme=tokyonight">
+</div>
+  <div align="center">
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=katharinalopes&theme=tokyonight&hide_border=true" width = 400>
 </div>
 <div style=display: inline_block"><br>
   <img align="center" alt="Katha-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original.svg"> 
@@ -22,6 +25,17 @@ Olá, eu sou a Katharina Lopes 👋
 <a href="https://www.youtube.com/katharinalopes" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://discord.gg/UepFYTJu" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>                                                                                                                                          
 </div>
+<!-- Meme randomico
+<div>
+<img src="https://random-memer.herokuapp.com/" title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+</div>
+Frase aleatoria
+<div>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)" title="Meme">
+</div>
+-->
+
+
  
   
 
