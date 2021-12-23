@@ -5,7 +5,7 @@ Olá, eu sou a Katharina Lopes 👋
 <div>
   <a href="http://instagram.com/katharinalopes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=katharinalopes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false">
-  <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katharinalopes&layout=compact&langs_count=16&theme=tokyonight">
+  <img height="180em" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katharinalopes&layout=compact&langs_count=16&theme=tokyonight">
 </div>
   <div align="center">
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=katharinalopes&theme=tokyonight&hide_border=true" width = 400>
